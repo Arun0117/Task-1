@@ -24,7 +24,7 @@ This is a simple Java console-based calculator that performs basic arithmetic op
 
 ---
 
-![Alt Text]()
+![Alt Text](Output)
 
 ## ▶️ How to Run
 
