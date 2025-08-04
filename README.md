@@ -24,6 +24,8 @@ This is a simple Java console-based calculator that performs basic arithmetic op
 
 ---
 
+![Alt Text]()
+
 ## ▶️ How to Run
 
 > Make sure Java is installed on your machine.
@@ -31,3 +33,5 @@ This is a simple Java console-based calculator that performs basic arithmetic op
 1. **Compile the program:**
    ```bash
    javac BasicCalculator.java
+
+   
